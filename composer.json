@@ -1,0 +1,13 @@
+{
+    "name": "litvinjuan/laravel-request-filter",
+    "description": "Filter your laravel requests outside of your controller",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Juan Litvin",
+            "email": "litvinjuan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
