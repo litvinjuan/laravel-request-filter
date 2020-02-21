@@ -8,6 +8,9 @@
             "email": "litvinjuan@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "minimum-stability": "stable",
+    "require": {
+        "illuminate/http": "^6.16",
+        "illuminate/database": "^6.16"
+    }
 }
